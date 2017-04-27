@@ -1,14 +1,20 @@
 
 
 
+************************************************************************************************************************
+
+https://github.com/levimodesto/wso2-squirrel.3.7.1/blob/master/lib/squirrel-sql-3.7.1-standard.jar
 
 execução linux 
 java -jar  squirrel-sql-3.7.1-standard.jar
 
+************************************************************************************************************************
+
+
 
 Configurar com o arquivo h2-1.4.194.jar 
 
-(https://github.com/levimodesto/wso2-squirrel.3.7.1/blob/40ccbf9b6682592c8cd5f6150c060463ea42ac96/lib/h2-1.4.194.jar)
+(https://github.com/levimodesto/wso2-squirrel.3.7.1/blob/master/lib/h2-1.4.194.jar)
 
 
 ************************************************************************************************************************
